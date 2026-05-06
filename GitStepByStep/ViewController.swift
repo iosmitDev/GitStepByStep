@@ -22,6 +22,10 @@ class ViewController: UIViewController {
     func addedInNewBranch() {
         print("Hello NewBranch")
     }
+    
+    func newCodeAdded() {
+        
+    }
 
 }
 
