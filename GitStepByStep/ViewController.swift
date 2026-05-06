@@ -19,6 +19,9 @@ class ViewController: UIViewController {
         print("added by another Developer")
             print("Welcome")
     }
+    func addedInNewBranch() {
+        print("Hello NewBranch")
+    }
 
 }
 
